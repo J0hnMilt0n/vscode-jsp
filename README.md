@@ -14,6 +14,7 @@ This extension provides support for the following languages:
 This extension recognizes the following file extensions:
 
 - `.tag`
+- `.tagf`
 - `.jsp`
 - `.jspf`
 

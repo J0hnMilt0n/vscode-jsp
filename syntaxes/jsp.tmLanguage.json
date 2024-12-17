@@ -2,7 +2,8 @@
     "fileTypes": [
         "jsp",
         "jspf",
-        "tag"
+        "tag",
+        "tagf"
     ],
     "injections": {
         "text.html.jsp - (meta.embedded.block.jsp | meta.embedded.line.jsp | meta.tag | comment), meta.tag string.quoted": {
